@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "Регистрация"; ObjectID = "17t-RB-UcM"; */
+"17t-RB-UcM.normalTitle" = "Регистрация";
+
+/* Class = "UITextField"; placeholder = "Подтвердите пароль"; ObjectID = "1yy-lV-a2e"; */
+"1yy-lV-a2e.placeholder" = "Подтвердите пароль";
+
+/* Class = "UIButton"; normalTitle = "Забыли пароль?"; ObjectID = "5wQ-zF-sn0"; */
+"5wQ-zF-sn0.normalTitle" = "Забыли пароль?";
+
+/* Class = "UITextField"; placeholder = "Телефон"; ObjectID = "MqD-l7-6S6"; */
+"MqD-l7-6S6.placeholder" = "Телефон";
+
+/* Class = "UIButton"; normalTitle = "Регистрация"; ObjectID = "Nlc-XH-Xgx"; */
+"Nlc-XH-Xgx.normalTitle" = "Регистрация";
+
+/* Class = "UITextField"; placeholder = "Номер телефона"; ObjectID = "Ttp-CO-S4q"; */
+"Ttp-CO-S4q.placeholder" = "Номер телефона";
+
+/* Class = "UITextField"; placeholder = "ФИО"; ObjectID = "UOr-KW-1W3"; */
+"UOr-KW-1W3.placeholder" = "ФИО";
+
+/* Class = "UIButton"; normalTitle = "Департаменты"; ObjectID = "ZUr-3Y-xqn"; */
+"ZUr-3Y-xqn.normalTitle" = "Департаменты";
+
+/* Class = "UILabel"; text = "Регистрация"; ObjectID = "aob-Ae-0Ht"; */
+"aob-Ae-0Ht.text" = "Регистрация";
+
+/* Class = "UILabel"; text = "Вход"; ObjectID = "dSq-NC-Fag"; */
+"dSq-NC-Fag.text" = "Вход";
+
+/* Class = "UITextField"; placeholder = "Пароль"; ObjectID = "ieM-HJ-RZy"; */
+"ieM-HJ-RZy.placeholder" = "Пароль";
+
+/* Class = "UITextField"; placeholder = "Пароль"; ObjectID = "mYB-Od-vak"; */
+"mYB-Od-vak.placeholder" = "Пароль";
+
+/* Class = "UIButton"; normalTitle = "Войти"; ObjectID = "xPm-l5-kYI"; */
+"xPm-l5-kYI.normalTitle" = "Войти";
